@@ -1,5 +1,6 @@
 ---
-title: MP Fass
+title: Woohoo! M. Fass's website! 
+author: M.P. Fass
 ---
 
 This is a test page!
